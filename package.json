@@ -1,0 +1,21 @@
+{
+  "name": "fieldnotes-mathematics-ebook",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs && node practice/build.mjs",
+    "preview": "node scripts/serve.mjs",
+    "test": "node scripts/verify.mjs",
+    "test:practice": "node --test practice/tests/*.test.mjs",
+    "build:practice": "node practice/build.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "katex": "0.16.47",
+    "marked": "15.0.12"
+  },
+  "packageManager": "pnpm@9.15.9"
+}

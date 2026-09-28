@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.netlify/
+.DS_Store
+verification/
+artifacts/
+.env
+.env.*
+!.env.example
+coverage/
+output/
+*.log
+practice/content/questions.json

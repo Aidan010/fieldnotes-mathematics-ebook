@@ -1,0 +1,26 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+  PNPM_VERSION = "9.15.9"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    X-Frame-Options = "SAMEORIGIN"
+
+[[headers]]
+  for = "/scans/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
+
+# Every page also has an explicit HTTP 200 rewrite in dist/_redirects.
+# This fallback lets the reader explain invalid addresses without a Netlify 404.
+[[redirects]]
+  from = "/ebook/*"
+  to = "/unavailable.html"
+  status = 200

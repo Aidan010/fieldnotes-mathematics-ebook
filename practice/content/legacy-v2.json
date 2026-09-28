@@ -1,0 +1,2449 @@
+[
+  {
+    "questionId": "1-1-q1",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-1",
+    "lessonName": "Solving Linear Equations",
+    "difficulty": 1,
+    "difficultyLabel": "Standard",
+    "ebookPage": 2,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p2",
+    "questionWeight": 1,
+    "prompt": "Solve:\n\n\\[\n4x-7=21\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\(x=7\\)"
+      },
+      {
+        "letter": "B",
+        "text": "\\(x=14\\)"
+      },
+      {
+        "letter": "C",
+        "text": "\\(x=\\frac72\\)"
+      },
+      {
+        "letter": "D",
+        "text": "\\(x=-7\\)"
+      }
+    ],
+    "correctChoice": "A",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: A**\n\nAdd 7 to both sides:\n\n\\[\n4x=28\n\\]\n\nDivide by 4:\n\n\\[\nx=7\n\\]\n\nSo the correct choice is **A**.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": [
+      {
+        "key": "x",
+        "label": "x",
+        "type": "number",
+        "value": "7",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      }
+    ]
+  },
+  {
+    "questionId": "1-1-q2",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-1",
+    "lessonName": "Solving Linear Equations",
+    "difficulty": 2,
+    "difficultyLabel": "Hard",
+    "ebookPage": 2,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p2",
+    "questionWeight": 1,
+    "prompt": "Solve:\n\n\\[\n5(2x-3)-4=3x+16\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\(x=3\\)"
+      },
+      {
+        "letter": "B",
+        "text": "\\(x=5\\)"
+      },
+      {
+        "letter": "C",
+        "text": "\\(x=7\\)"
+      },
+      {
+        "letter": "D",
+        "text": "\\(x=\\frac{35}{13}\\)"
+      }
+    ],
+    "correctChoice": "B",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: B**\n\nDistribute and combine:\n\n\\[\n10x-15-4=3x+16\n\\]\n\n\\[\n10x-19=3x+16\n\\]\n\n\\[\n7x=35\n\\]\n\n\\[\nx=5\n\\]\n\nTherefore **B** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": [
+      {
+        "key": "x",
+        "label": "x",
+        "type": "number",
+        "value": "5",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      }
+    ]
+  },
+  {
+    "questionId": "1-1-q3",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-1",
+    "lessonName": "Solving Linear Equations",
+    "difficulty": 3,
+    "difficultyLabel": "Hard–Challenge",
+    "ebookPage": 2,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p2",
+    "questionWeight": 1,
+    "prompt": "Solve:\n\n\\[\n\\frac34(x-8)+5=\\frac12(x+6)\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\(x=8\\)"
+      },
+      {
+        "letter": "B",
+        "text": "\\(x=12\\)"
+      },
+      {
+        "letter": "C",
+        "text": "\\(x=16\\)"
+      },
+      {
+        "letter": "D",
+        "text": "\\(x=20\\)"
+      }
+    ],
+    "correctChoice": "C",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: C**\n\nExpand:\n\n\\[\n\\frac34x-6+5=\\frac12x+3\n\\]\n\n\\[\n\\frac34x-1=\\frac12x+3\n\\]\n\nSubtract \\(\\frac12x\\):\n\n\\[\n\\frac14x-1=3\n\\]\n\n\\[\n\\frac14x=4\n\\]\n\n\\[\nx=16\n\\]\n\nSo **C** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": [
+      {
+        "key": "x",
+        "label": "x",
+        "type": "number",
+        "value": "16",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      }
+    ]
+  },
+  {
+    "questionId": "1-1-q4",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-1",
+    "lessonName": "Solving Linear Equations",
+    "difficulty": 4,
+    "difficultyLabel": "Challenge",
+    "ebookPage": 2,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p2",
+    "questionWeight": 1,
+    "prompt": "Solve:\n\n\\[\n0.4(5x-10)+3=1.2x+7\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\(x=5\\)"
+      },
+      {
+        "letter": "B",
+        "text": "\\(x=8\\)"
+      },
+      {
+        "letter": "C",
+        "text": "\\(x=9\\)"
+      },
+      {
+        "letter": "D",
+        "text": "\\(x=10\\)"
+      }
+    ],
+    "correctChoice": "D",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: D**\n\nDistribute:\n\n\\[\n2x-4+3=1.2x+7\n\\]\n\n\\[\n2x-1=1.2x+7\n\\]\n\n\\[\n0.8x=8\n\\]\n\n\\[\nx=10\n\\]\n\nTherefore **D** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": [
+      {
+        "key": "x",
+        "label": "x",
+        "type": "number",
+        "value": "10",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      }
+    ]
+  },
+  {
+    "questionId": "1-1-q5",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-1",
+    "lessonName": "Solving Linear Equations",
+    "difficulty": 5,
+    "difficultyLabel": "Hardest",
+    "ebookPage": 2,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p2",
+    "questionWeight": 1,
+    "prompt": "Solve and classify the equation:\n\n\\[\n\\frac34(2x-5)-\\frac23(x+4)\n=\n\\frac56(x-7)+\\frac{11}{12}\n\\]\n\nWhich statement is true?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "It has exactly one solution."
+      },
+      {
+        "letter": "B",
+        "text": "It has no solution."
+      },
+      {
+        "letter": "C",
+        "text": "It has infinitely many solutions."
+      },
+      {
+        "letter": "D",
+        "text": "Its only solution is \\(x=\\frac32\\)."
+      }
+    ],
+    "correctChoice": "B",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: B**\n\nMultiply every term by 12:\n\n\\[\n9(2x-5)-8(x+4)=10(x-7)+11\n\\]\n\nExpand:\n\n\\[\n18x-45-8x-32=10x-70+11\n\\]\n\n\\[\n10x-77=10x-59\n\\]\n\nSubtract \\(10x\\):\n\n\\[\n-77=-59\n\\]\n\nThis is false for every value of \\(x\\). Therefore the equation has **no solution**, so **B** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": [
+      {
+        "key": "solution",
+        "label": "Solution type",
+        "type": "text",
+        "value": "No solution",
+        "accepted": [
+          "none",
+          "no solutions",
+          "no solution",
+          "empty set",
+          "there is no solution",
+          "there are no solutions",
+          "the equation has no solution",
+          "no real solution"
+        ]
+      }
+    ]
+  },
+  {
+    "questionId": "1-2-q1",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-2",
+    "lessonName": "Solving Linear Inequalities",
+    "difficulty": 1,
+    "difficultyLabel": "Standard",
+    "ebookPage": 10,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p10",
+    "questionWeight": 1,
+    "prompt": "Solve:\n\n\\[\n3x+5>20\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\(x>5\\)"
+      },
+      {
+        "letter": "B",
+        "text": "\\(x<5\\)"
+      },
+      {
+        "letter": "C",
+        "text": "\\(x>15\\)"
+      },
+      {
+        "letter": "D",
+        "text": "\\(x\\ge5\\)"
+      }
+    ],
+    "correctChoice": "A",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: A**\n\n\\[\n3x>15\n\\]\n\n\\[\nx>5\n\\]\n\nNo sign reversal is needed because we divide by positive 3. **A** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": [
+      {
+        "key": "inequality",
+        "label": "Solution inequality",
+        "type": "inequality",
+        "value": "x>5",
+        "hint": "Enter the complete inequality. Use <, >, <=, or >=."
+      }
+    ]
+  },
+  {
+    "questionId": "1-2-q2",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-2",
+    "lessonName": "Solving Linear Inequalities",
+    "difficulty": 2,
+    "difficultyLabel": "Hard",
+    "ebookPage": 10,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p10",
+    "questionWeight": 1,
+    "prompt": "Solve:\n\n\\[\n-4x+7\\le23\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\(x\\le-4\\)"
+      },
+      {
+        "letter": "B",
+        "text": "\\(x\\ge-4\\)"
+      },
+      {
+        "letter": "C",
+        "text": "\\(x\\le4\\)"
+      },
+      {
+        "letter": "D",
+        "text": "\\(x\\ge4\\)"
+      }
+    ],
+    "correctChoice": "B",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: B**\n\n\\[\n-4x\\le16\n\\]\n\nDivide by \\(-4\\), so reverse the inequality:\n\n\\[\nx\\ge-4\n\\]\n\nTherefore **B** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": [
+      {
+        "key": "inequality",
+        "label": "Solution inequality",
+        "type": "inequality",
+        "value": "x>=-4",
+        "hint": "Enter the complete inequality. Use <, >, <=, or >=."
+      }
+    ]
+  },
+  {
+    "questionId": "1-2-q3",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-2",
+    "lessonName": "Solving Linear Inequalities",
+    "difficulty": 3,
+    "difficultyLabel": "Hard–Challenge",
+    "ebookPage": 10,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p10",
+    "questionWeight": 1,
+    "prompt": "Solve:\n\n\\[\n5-2(3x-4)>7x+1\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\(x>\\frac{12}{13}\\)"
+      },
+      {
+        "letter": "B",
+        "text": "\\(x<\\frac{13}{12}\\)"
+      },
+      {
+        "letter": "C",
+        "text": "\\(x<\\frac{12}{13}\\)"
+      },
+      {
+        "letter": "D",
+        "text": "\\(x>-\\frac{12}{13}\\)"
+      }
+    ],
+    "correctChoice": "C",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: C**\n\nExpand:\n\n\\[\n5-6x+8>7x+1\n\\]\n\n\\[\n13-6x>7x+1\n\\]\n\n\\[\n12>13x\n\\]\n\n\\[\nx<\\frac{12}{13}\n\\]\n\nThus **C** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": [
+      {
+        "key": "inequality",
+        "label": "Solution inequality",
+        "type": "inequality",
+        "value": "x<12/13",
+        "hint": "Enter the complete inequality. Use <, >, <=, or >=."
+      }
+    ]
+  },
+  {
+    "questionId": "1-2-q4",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-2",
+    "lessonName": "Solving Linear Inequalities",
+    "difficulty": 4,
+    "difficultyLabel": "Challenge",
+    "ebookPage": 10,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p10",
+    "questionWeight": 1,
+    "prompt": "Solve:\n\n\\[\n\\frac{x-2}{3}-\\frac{x+1}{4}\\ge2\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\(x\\le35\\)"
+      },
+      {
+        "letter": "B",
+        "text": "\\(x\\ge11\\)"
+      },
+      {
+        "letter": "C",
+        "text": "\\(x\\le11\\)"
+      },
+      {
+        "letter": "D",
+        "text": "\\(x\\ge35\\)"
+      }
+    ],
+    "correctChoice": "D",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: D**\n\nMultiply by 12:\n\n\\[\n4(x-2)-3(x+1)\\ge24\n\\]\n\n\\[\n4x-8-3x-3\\ge24\n\\]\n\n\\[\nx-11\\ge24\n\\]\n\n\\[\nx\\ge35\n\\]\n\nSo **D** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": [
+      {
+        "key": "inequality",
+        "label": "Solution inequality",
+        "type": "inequality",
+        "value": "x>=35",
+        "hint": "Enter the complete inequality. Use <, >, <=, or >=."
+      }
+    ]
+  },
+  {
+    "questionId": "1-2-q5",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-2",
+    "lessonName": "Solving Linear Inequalities",
+    "difficulty": 5,
+    "difficultyLabel": "Hardest",
+    "ebookPage": 10,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p10",
+    "questionWeight": 1,
+    "prompt": "Solve the compound inequality:\n\n\\[\n-7\\le\\frac{5-3x}{2}<8\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\(-\\frac{11}{3}<x\\le\\frac{19}{3}\\)"
+      },
+      {
+        "letter": "B",
+        "text": "\\(-\\frac{19}{3}\\le x<\\frac{11}{3}\\)"
+      },
+      {
+        "letter": "C",
+        "text": "\\(-\\frac{11}{3}\\le x<\\frac{19}{3}\\)"
+      },
+      {
+        "letter": "D",
+        "text": "\\(x\\le-\\frac{11}{3}\\text{ or }x>\\frac{19}{3}\\)"
+      }
+    ],
+    "correctChoice": "A",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: A**\n\nMultiply all three parts by 2:\n\n\\[\n-14\\le5-3x<16\n\\]\n\nSubtract 5:\n\n\\[\n-19\\le-3x<11\n\\]\n\nDivide every part by \\(-3\\). Both inequality directions reverse:\n\n\\[\n\\frac{19}{3}\\ge x>-\\frac{11}{3}\n\\]\n\nRewrite in increasing order:\n\n\\[\n-\\frac{11}{3}<x\\le\\frac{19}{3}\n\\]\n\nTherefore **A** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": false,
+    "fields": [
+      {
+        "key": "interval",
+        "label": "Solution in interval notation",
+        "type": "interval",
+        "value": "(-11/3,19/3]",
+        "hint": "Use brackets for included endpoints and parentheses for excluded endpoints."
+      }
+    ]
+  },
+  {
+    "questionId": "1-3-q1",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-3",
+    "lessonName": "Rate of Change and Slope",
+    "difficulty": 1,
+    "difficultyLabel": "Standard",
+    "ebookPage": 18,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p18",
+    "questionWeight": 1,
+    "prompt": "Find the slope through:\n\n\\[\n(2,3),\\ (6,11)\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\(2\\)"
+      },
+      {
+        "letter": "B",
+        "text": "\\(\\frac12\\)"
+      },
+      {
+        "letter": "C",
+        "text": "\\(-2\\)"
+      },
+      {
+        "letter": "D",
+        "text": "\\(4\\)"
+      }
+    ],
+    "correctChoice": "A",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: A**\n\n\\[\nm=\\frac{11-3}{6-2}=\\frac84=2\n\\]\n\nSo **A** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": [
+      {
+        "key": "m",
+        "label": "Slope",
+        "type": "number",
+        "value": "2",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      }
+    ]
+  },
+  {
+    "questionId": "1-3-q2",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-3",
+    "lessonName": "Rate of Change and Slope",
+    "difficulty": 2,
+    "difficultyLabel": "Hard",
+    "ebookPage": 18,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p18",
+    "questionWeight": 1,
+    "prompt": "Find the slope through:\n\n\\[\n(-4,7),\\ (5,-11)\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\(2\\)"
+      },
+      {
+        "letter": "B",
+        "text": "\\(-2\\)"
+      },
+      {
+        "letter": "C",
+        "text": "\\(-\\frac12\\)"
+      },
+      {
+        "letter": "D",
+        "text": "\\(-18\\)"
+      }
+    ],
+    "correctChoice": "B",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: B**\n\n\\[\nm=\\frac{-11-7}{5-(-4)}\n=\\frac{-18}{9}\n=-2\n\\]\n\nThus **B** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": [
+      {
+        "key": "m",
+        "label": "Slope",
+        "type": "number",
+        "value": "-2",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      }
+    ]
+  },
+  {
+    "questionId": "1-3-q3",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-3",
+    "lessonName": "Rate of Change and Slope",
+    "difficulty": 3,
+    "difficultyLabel": "Hard–Challenge",
+    "ebookPage": 18,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p18",
+    "questionWeight": 1,
+    "prompt": "The table represents a linear relationship.\n\n| \\(x\\) | -3 | 1 | 5 |\n|---|---:|---:|---:|\n| \\(y\\) | 10 | 2 | -6 |\n\nWhat is the rate of change?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\(-4\\)"
+      },
+      {
+        "letter": "B",
+        "text": "\\(\\frac12\\)"
+      },
+      {
+        "letter": "C",
+        "text": "\\(-2\\)"
+      },
+      {
+        "letter": "D",
+        "text": "\\(2\\)"
+      }
+    ],
+    "correctChoice": "C",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: C**\n\nUsing the first two points:\n\n\\[\nm=\\frac{2-10}{1-(-3)}\n=\\frac{-8}{4}\n=-2\n\\]\n\nThe next pair gives the same value, confirming linearity. **C** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": [
+      {
+        "key": "m",
+        "label": "Rate of change",
+        "type": "number",
+        "value": "-2",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      }
+    ]
+  },
+  {
+    "questionId": "1-3-q4",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-3",
+    "lessonName": "Rate of Change and Slope",
+    "difficulty": 4,
+    "difficultyLabel": "Challenge",
+    "ebookPage": 18,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p18",
+    "questionWeight": 1,
+    "prompt": "A tank contains 480 liters at minute 2 and 300 liters at minute 8. What is the average rate of change, with its correct interpretation?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\(30\\) L/min; the amount increases"
+      },
+      {
+        "letter": "B",
+        "text": "\\(-180\\) L/min; the amount decreases"
+      },
+      {
+        "letter": "C",
+        "text": "\\(60\\) L/min; the amount increases"
+      },
+      {
+        "letter": "D",
+        "text": "\\(-30\\) L/min; the amount decreases"
+      }
+    ],
+    "correctChoice": "D",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: D**\n\n\\[\nm=\\frac{300-480}{8-2}\n=\\frac{-180}{6}\n=-30\n\\]\n\nThe negative sign means the amount of water is decreasing. Therefore **D** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": [
+      {
+        "key": "rate",
+        "label": "Rate of change (liters per minute)",
+        "type": "number",
+        "value": "-30",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      },
+      {
+        "key": "interpretation",
+        "label": "Does the amount of water increase or decrease?",
+        "type": "text",
+        "value": "Decreases",
+        "accepted": [
+          "decreases",
+          "decrease",
+          "decreasing",
+          "the amount of water decreases",
+          "the amount of water decreases over time"
+        ]
+      }
+    ]
+  },
+  {
+    "questionId": "1-3-q5",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-3",
+    "lessonName": "Rate of Change and Slope",
+    "difficulty": 5,
+    "difficultyLabel": "Hardest",
+    "ebookPage": 18,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p18",
+    "questionWeight": 1,
+    "prompt": "The slope between the points\n\n\\[\n(a,\\,2a-1)\n\\quad\\text{and}\\quad\n(7,-4)\n\\]\n\nis\n\n\\[\n-\\frac32.\n\\]\n\nWhat is \\(a\\)?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\(\\frac{15}{7}\\)"
+      },
+      {
+        "letter": "B",
+        "text": "\\(\\frac{7}{15}\\)"
+      },
+      {
+        "letter": "C",
+        "text": "\\(3\\)"
+      },
+      {
+        "letter": "D",
+        "text": "\\(\\frac{21}{5}\\)"
+      }
+    ],
+    "correctChoice": "A",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: A**\n\nUse the slope formula:\n\n\\[\n\\frac{-4-(2a-1)}{7-a}=-\\frac32\n\\]\n\n\\[\n\\frac{-3-2a}{7-a}=-\\frac32\n\\]\n\nCross-multiply:\n\n\\[\n2(-3-2a)=-3(7-a)\n\\]\n\n\\[\n-6-4a=-21+3a\n\\]\n\n\\[\n15=7a\n\\]\n\n\\[\na=\\frac{15}{7}\n\\]\n\nThus **A** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": false,
+    "fields": [
+      {
+        "key": "a",
+        "label": "a",
+        "type": "number",
+        "value": "15/7",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      }
+    ]
+  },
+  {
+    "questionId": "1-4-q1",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-4",
+    "lessonName": "Writing Linear Equations",
+    "difficulty": 1,
+    "difficultyLabel": "Standard",
+    "ebookPage": 25,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p25",
+    "questionWeight": 1,
+    "prompt": "Which equation has slope \\(4\\) and y-intercept \\(-7\\)?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\(y=4x-7\\)"
+      },
+      {
+        "letter": "B",
+        "text": "\\(y=-7x+4\\)"
+      },
+      {
+        "letter": "C",
+        "text": "\\(y=4x+7\\)"
+      },
+      {
+        "letter": "D",
+        "text": "\\(y=-4x-7\\)"
+      }
+    ],
+    "correctChoice": "A",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: A**\n\nSlope-intercept form is:\n\n\\[\ny=mx+b\n\\]\n\nUsing \\(m=4\\) and \\(b=-7\\):\n\n\\[\ny=4x-7\n\\]\n\nSo **A** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": [
+      {
+        "key": "equation",
+        "label": "Equation of the line",
+        "type": "line",
+        "value": "y=4x-7",
+        "hint": "Equivalent linear equations are accepted, including standard and slope-intercept form."
+      }
+    ]
+  },
+  {
+    "questionId": "1-4-q2",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-4",
+    "lessonName": "Writing Linear Equations",
+    "difficulty": 2,
+    "difficultyLabel": "Hard",
+    "ebookPage": 25,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p25",
+    "questionWeight": 1,
+    "prompt": "Which equation represents the line with slope \\(-3\\) through \\((2,5)\\)?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\(y=-3x-11\\)"
+      },
+      {
+        "letter": "B",
+        "text": "\\(y=-3x+11\\)"
+      },
+      {
+        "letter": "C",
+        "text": "\\(y=3x-1\\)"
+      },
+      {
+        "letter": "D",
+        "text": "\\(y=-3x+5\\)"
+      }
+    ],
+    "correctChoice": "B",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: B**\n\nUse point-slope form:\n\n\\[\ny-5=-3(x-2)\n\\]\n\n\\[\ny-5=-3x+6\n\\]\n\n\\[\ny=-3x+11\n\\]\n\nTherefore **B** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": [
+      {
+        "key": "equation",
+        "label": "Equation of the line",
+        "type": "line",
+        "value": "y=-3x+11",
+        "hint": "Equivalent linear equations are accepted, including standard and slope-intercept form."
+      }
+    ]
+  },
+  {
+    "questionId": "1-4-q3",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-4",
+    "lessonName": "Writing Linear Equations",
+    "difficulty": 3,
+    "difficultyLabel": "Hard–Challenge",
+    "ebookPage": 25,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p25",
+    "questionWeight": 1,
+    "prompt": "Which equation passes through\n\n\\[\n(-1,4)\\quad\\text{and}\\quad(5,-8)?\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\(y=2x+2\\)"
+      },
+      {
+        "letter": "B",
+        "text": "\\(y=-2x-2\\)"
+      },
+      {
+        "letter": "C",
+        "text": "\\(y=-2x+2\\)"
+      },
+      {
+        "letter": "D",
+        "text": "\\(y=2x+6\\)"
+      }
+    ],
+    "correctChoice": "C",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: C**\n\nFirst find slope:\n\n\\[\nm=\\frac{-8-4}{5-(-1)}\n=\\frac{-12}{6}\n=-2\n\\]\n\nUsing \\((-1,4)\\):\n\n\\[\ny-4=-2(x+1)\n\\]\n\n\\[\ny=-2x+2\n\\]\n\nSo **C** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": [
+      {
+        "key": "equation",
+        "label": "Equation of the line",
+        "type": "line",
+        "value": "y=-2x+2",
+        "hint": "Equivalent linear equations are accepted, including standard and slope-intercept form."
+      }
+    ]
+  },
+  {
+    "questionId": "1-4-q4",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-4",
+    "lessonName": "Writing Linear Equations",
+    "difficulty": 4,
+    "difficultyLabel": "Challenge",
+    "ebookPage": 25,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p25",
+    "questionWeight": 1,
+    "prompt": "Which equation is perpendicular to\n\n\\[\ny=\\frac12x+3\n\\]\n\nand passes through \\((4,-1)\\)?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\(y=\\frac12x-3\\)"
+      },
+      {
+        "letter": "B",
+        "text": "\\(y=2x-9\\)"
+      },
+      {
+        "letter": "C",
+        "text": "\\(y=-\\frac12x+1\\)"
+      },
+      {
+        "letter": "D",
+        "text": "\\(y=-2x+7\\)"
+      }
+    ],
+    "correctChoice": "D",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: D**\n\nThe given slope is \\(\\frac12\\). A perpendicular line has slope \\(-2\\).\n\nUse point-slope form:\n\n\\[\ny+1=-2(x-4)\n\\]\n\n\\[\ny=-2x+7\n\\]\n\nThus **D** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": [
+      {
+        "key": "equation",
+        "label": "Equation of the line",
+        "type": "line",
+        "value": "y=-2x+7",
+        "hint": "Equivalent linear equations are accepted, including standard and slope-intercept form."
+      }
+    ]
+  },
+  {
+    "questionId": "1-4-q5",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-4",
+    "lessonName": "Writing Linear Equations",
+    "difficulty": 5,
+    "difficultyLabel": "Hardest",
+    "ebookPage": 25,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p25",
+    "questionWeight": 1,
+    "prompt": "The lines\n\n\\[\n2x+y=7\n\\]\n\nand\n\n\\[\nx-3y=-5\n\\]\n\nintersect at point \\(P\\). Which equation is the line through \\(P\\) that is perpendicular to\n\n\\[\n3x-2y=8?\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\(14x+21y=83\\)"
+      },
+      {
+        "letter": "B",
+        "text": "\\(21x-14y=14\\)"
+      },
+      {
+        "letter": "C",
+        "text": "\\(14x-21y=-19\\)"
+      },
+      {
+        "letter": "D",
+        "text": "\\(21x+14y=82\\)"
+      }
+    ],
+    "correctChoice": "A",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: A**\n\nFirst find \\(P\\).\n\nFrom \\(x-3y=-5\\):\n\n\\[\nx=3y-5\n\\]\n\nSubstitute into \\(2x+y=7\\):\n\n\\[\n2(3y-5)+y=7\n\\]\n\n\\[\n7y=17\n\\]\n\n\\[\ny=\\frac{17}{7},\\qquad x=\\frac{16}{7}\n\\]\n\nNow rewrite:\n\n\\[\n3x-2y=8\n\\]\n\n\\[\ny=\\frac32x-4\n\\]\n\nIts slope is \\(\\frac32\\), so a perpendicular slope is:\n\n\\[\n-\\frac23\n\\]\n\nUsing point \\(P\\):\n\n\\[\ny-\\frac{17}{7}\n=\n-\\frac23\\left(x-\\frac{16}{7}\\right)\n\\]\n\nThis simplifies to:\n\n\\[\ny=-\\frac23x+\\frac{83}{21}\n\\]\n\nMultiply by 21:\n\n\\[\n14x+21y=83\n\\]\n\nTherefore **A** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": false,
+    "fields": [
+      {
+        "key": "equation",
+        "label": "Equation of the line",
+        "type": "line",
+        "value": "14x+21y=83",
+        "hint": "Equivalent linear equations are accepted, including standard and slope-intercept form."
+      }
+    ]
+  },
+  {
+    "questionId": "1-5-q1",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-5",
+    "lessonName": "Graphing Linear Inequalities",
+    "difficulty": 1,
+    "difficultyLabel": "Standard",
+    "ebookPage": 32,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p32",
+    "questionWeight": 1,
+    "prompt": "Which graph represents\n\n\\[\ny>2x-3?\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "/practice/graphs/1-5-q1-A.svg",
+        "description": "Dashed boundary -2x + 1y = -3; shaded where -2x + 1y > -3"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "/practice/graphs/1-5-q1-B.svg",
+        "description": "Dashed boundary -2x + 1y = -3; shaded where -2x + 1y < -3"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "/practice/graphs/1-5-q1-C.svg",
+        "description": "Solid boundary -2x + 1y = -3; shaded where -2x + 1y >= -3"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "/practice/graphs/1-5-q1-D.svg",
+        "description": "Dashed boundary 2x + 1y = -3; shaded where 2x + 1y > -3"
+      }
+    ],
+    "correctChoice": "A",
+    "isGraph": true,
+    "sourceGraph": "images/1-5_Q1_choices.png",
+    "explanation": "**Correct answer: A**\n\nThe boundary is:\n\n\\[\ny=2x-3\n\\]\n\nBecause the inequality is strict (\\(>\\)), the boundary must be **dashed**. Because \\(y\\) is greater than the line, shade **above** it.\n\nOnly graph **A** has the correct line, dashed boundary, and shading.",
+    "supportedMethods": [
+      "mc"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": []
+  },
+  {
+    "questionId": "1-5-q2",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-5",
+    "lessonName": "Graphing Linear Inequalities",
+    "difficulty": 2,
+    "difficultyLabel": "Hard",
+    "ebookPage": 32,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p32",
+    "questionWeight": 1,
+    "prompt": "Which graph represents\n\n\\[\n3x+2y\\le12?\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "/practice/graphs/1-5-q2-A.svg",
+        "description": "Solid boundary 1.5x + 1y = 6; shaded where 1.5x + 1y >= 6"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "/practice/graphs/1-5-q2-B.svg",
+        "description": "Solid boundary 1.5x + 1y = 6; shaded where 1.5x + 1y <= 6"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "/practice/graphs/1-5-q2-C.svg",
+        "description": "Dashed boundary 1.5x + 1y = 6; shaded where 1.5x + 1y < 6"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "/practice/graphs/1-5-q2-D.svg",
+        "description": "Solid boundary -1.5x + 1y = 6; shaded where -1.5x + 1y <= 6"
+      }
+    ],
+    "correctChoice": "B",
+    "isGraph": true,
+    "sourceGraph": "images/1-5_Q2_choices.png",
+    "explanation": "**Correct answer: B**\n\nSolve for \\(y\\):\n\n\\[\n2y\\le-3x+12\n\\]\n\n\\[\ny\\le-\\frac32x+6\n\\]\n\nThe boundary is solid because of \\(\\le\\), and the region is below the line. That is graph **B**.",
+    "supportedMethods": [
+      "mc"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": []
+  },
+  {
+    "questionId": "1-5-q3",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-5",
+    "lessonName": "Graphing Linear Inequalities",
+    "difficulty": 3,
+    "difficultyLabel": "Hard–Challenge",
+    "ebookPage": 32,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p32",
+    "questionWeight": 1,
+    "prompt": "Which graph represents\n\n\\[\n-2x+4y>8?\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "/practice/graphs/1-5-q3-A.svg",
+        "description": "Dashed boundary -0.5x + 1y = 2; shaded where -0.5x + 1y < 2"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "/practice/graphs/1-5-q3-B.svg",
+        "description": "Solid boundary -0.5x + 1y = 2; shaded where -0.5x + 1y >= 2"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "/practice/graphs/1-5-q3-C.svg",
+        "description": "Dashed boundary -0.5x + 1y = 2; shaded where -0.5x + 1y > 2"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "/practice/graphs/1-5-q3-D.svg",
+        "description": "Dashed boundary 0.5x + 1y = 2; shaded where 0.5x + 1y > 2"
+      }
+    ],
+    "correctChoice": "C",
+    "isGraph": true,
+    "sourceGraph": "images/1-5_Q3_choices.png",
+    "explanation": "**Correct answer: C**\n\nSolve for \\(y\\):\n\n\\[\n4y>2x+8\n\\]\n\n\\[\ny>\\frac12x+2\n\\]\n\nUse a dashed boundary and shade above. Graph **C** is correct.",
+    "supportedMethods": [
+      "mc"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": []
+  },
+  {
+    "questionId": "1-5-q4",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-5",
+    "lessonName": "Graphing Linear Inequalities",
+    "difficulty": 4,
+    "difficultyLabel": "Challenge",
+    "ebookPage": 32,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p32",
+    "questionWeight": 1,
+    "prompt": "Which graph represents\n\n\\[\n2x-5y<10?\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "/practice/graphs/1-5-q4-A.svg",
+        "description": "Dashed boundary -0.4x + 1y = -2; shaded where -0.4x + 1y < -2"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "/practice/graphs/1-5-q4-B.svg",
+        "description": "Solid boundary -0.4x + 1y = -2; shaded where -0.4x + 1y >= -2"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "/practice/graphs/1-5-q4-C.svg",
+        "description": "Dashed boundary -0.4x + 1y = 2; shaded where -0.4x + 1y > 2"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "/practice/graphs/1-5-q4-D.svg",
+        "description": "Dashed boundary -0.4x + 1y = -2; shaded where -0.4x + 1y > -2"
+      }
+    ],
+    "correctChoice": "D",
+    "isGraph": true,
+    "sourceGraph": "images/1-5_Q4_choices.png",
+    "explanation": "**Correct answer: D**\n\nSolve carefully:\n\n\\[\n-5y<10-2x\n\\]\n\nDivide by \\(-5\\) and reverse the inequality:\n\n\\[\ny>\\frac25x-2\n\\]\n\nSo the boundary is dashed and the region is above. Graph **D** is correct.",
+    "supportedMethods": [
+      "mc"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": false,
+    "fields": []
+  },
+  {
+    "questionId": "1-5-q5",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-5",
+    "lessonName": "Graphing Linear Inequalities",
+    "difficulty": 5,
+    "difficultyLabel": "Hardest",
+    "ebookPage": 32,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p32",
+    "questionWeight": 1,
+    "prompt": "Consider the inequality\n\n\\[\n\\frac32(x+t)-\\frac54(y+t)\\ge6.\n\\]\n\nWhich graph represents all starting points \\((x,y)\\) for which this inequality holds for **every real number \\(t\\ge0\\)**?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "/practice/graphs/1-5-q5-A.svg",
+        "description": "Solid boundary -1.2x + 1y = -4.8; shaded where -1.2x + 1y >= -4.8"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "/practice/graphs/1-5-q5-B.svg",
+        "description": "Solid boundary -1.2x + 1y = -4.8; shaded where -1.2x + 1y <= -4.8"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "/practice/graphs/1-5-q5-C.svg",
+        "description": "Dashed boundary -1.2x + 1y = -4.8; shaded where -1.2x + 1y < -4.8"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "/practice/graphs/1-5-q5-D.svg",
+        "description": "Solid boundary 1.2x + 1y = 4.8; shaded where 1.2x + 1y <= 4.8"
+      }
+    ],
+    "correctChoice": "B",
+    "isGraph": true,
+    "sourceGraph": "images/1-5_Q5_choices.png",
+    "explanation": "**Correct answer: B**\n\nThe phrase **every \\(t\\ge0\\)** includes \\(t=0\\). Any allowed starting point must therefore satisfy\n\n\\[\n\\frac32x-\\frac54y\\ge6.\n\\]\n\nTo check whether that condition is also sufficient, expand the parameter terms:\n\n\\[\n\\frac32(x+t)-\\frac54(y+t)\n=\\frac32x-\\frac54y+\\frac14t.\n\\]\n\nSince \\(t\\ge0\\), the extra term \\(\\frac14t\\) can only increase the left-hand side. Thus a point that works at \\(t=0\\) works for every allowed \\(t\\). A point that fails at \\(t=0\\) cannot be included, even if it works for a larger value of \\(t\\).\n\nThe complete solution set is therefore exactly\n\n\\[\n6x-5y\\ge24.\n\\]\n\nDividing by \\(-5\\) reverses the inequality:\n\n\\[\ny\\le\\frac65x-\\frac{24}{5}.\n\\]\n\nThe boundary is solid, and the region lies below it. This is graph **B**.",
+    "supportedMethods": [
+      "mc"
+    ],
+    "contentVersion": 2,
+    "depthRefinement": "Universal parameter; same solution set and correct graph as the supplied source",
+    "active": true,
+    "preservesLegacyContent": false,
+    "fields": []
+  },
+  {
+    "questionId": "1-6-q1",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-6",
+    "lessonName": "Solving Systems of Equations",
+    "difficulty": 1,
+    "difficultyLabel": "Standard",
+    "ebookPage": 39,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p39",
+    "questionWeight": 1,
+    "prompt": "Solve:\n\n\\[\n\\begin{cases}\nx+y=9\\\\\nx-y=3\n\\end{cases}\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\((6,3)\\)"
+      },
+      {
+        "letter": "B",
+        "text": "\\((3,6)\\)"
+      },
+      {
+        "letter": "C",
+        "text": "\\((4,5)\\)"
+      },
+      {
+        "letter": "D",
+        "text": "\\((9,3)\\)"
+      }
+    ],
+    "correctChoice": "A",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: A**\n\nAdd the equations:\n\n\\[\n2x=12\n\\]\n\n\\[\nx=6\n\\]\n\nThen:\n\n\\[\n6+y=9\n\\]\n\n\\[\ny=3\n\\]\n\nSo the solution is \\((6,3)\\), choice **A**.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": [
+      {
+        "key": "x",
+        "label": "x",
+        "type": "number",
+        "value": "6",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      },
+      {
+        "key": "y",
+        "label": "y",
+        "type": "number",
+        "value": "3",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      }
+    ]
+  },
+  {
+    "questionId": "1-6-q2",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-6",
+    "lessonName": "Solving Systems of Equations",
+    "difficulty": 2,
+    "difficultyLabel": "Hard",
+    "ebookPage": 39,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p39",
+    "questionWeight": 1,
+    "prompt": "Solve:\n\n\\[\n\\begin{cases}\n2x+3y=13\\\\\n5x-y=14\n\\end{cases}\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\(\\left(\\frac{37}{17},\\frac{55}{17}\\right)\\)"
+      },
+      {
+        "letter": "B",
+        "text": "\\(\\left(\\frac{55}{17},\\frac{37}{17}\\right)\\)"
+      },
+      {
+        "letter": "C",
+        "text": "\\((3,2)\\)"
+      },
+      {
+        "letter": "D",
+        "text": "\\((2,3)\\)"
+      }
+    ],
+    "correctChoice": "B",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: B**\n\nFrom the second equation:\n\n\\[\ny=5x-14\n\\]\n\nSubstitute:\n\n\\[\n2x+3(5x-14)=13\n\\]\n\n\\[\n17x=55\n\\]\n\n\\[\nx=\\frac{55}{17}\n\\]\n\nThen:\n\n\\[\ny=5\\left(\\frac{55}{17}\\right)-14\n=\\frac{37}{17}\n\\]\n\nTherefore **B** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": [
+      {
+        "key": "x",
+        "label": "x",
+        "type": "number",
+        "value": "55/17",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      },
+      {
+        "key": "y",
+        "label": "y",
+        "type": "number",
+        "value": "37/17",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      }
+    ]
+  },
+  {
+    "questionId": "1-6-q3",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-6",
+    "lessonName": "Solving Systems of Equations",
+    "difficulty": 3,
+    "difficultyLabel": "Hard–Challenge",
+    "ebookPage": 39,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p39",
+    "questionWeight": 1,
+    "prompt": "How many solutions does the system have?\n\n\\[\n\\begin{cases}\n3x-4y=10\\\\\n6x-8y=20\n\\end{cases}\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "No solutions"
+      },
+      {
+        "letter": "B",
+        "text": "Exactly two solutions"
+      },
+      {
+        "letter": "C",
+        "text": "Infinitely many solutions"
+      },
+      {
+        "letter": "D",
+        "text": "Exactly one solution"
+      }
+    ],
+    "correctChoice": "C",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: C**\n\nThe second equation is exactly twice the first:\n\n\\[\n2(3x-4y=10)\\Rightarrow6x-8y=20\n\\]\n\nThey represent the same line. Every point on that line satisfies both equations.\n\nSo there are **infinitely many solutions**, choice **C**.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": [
+      {
+        "key": "solution",
+        "label": "Solution type",
+        "type": "text",
+        "value": "Infinitely many solutions",
+        "accepted": [
+          "infinitely many solutions",
+          "infinitely many",
+          "infinite solutions",
+          "infinite",
+          "there are infinitely many solutions",
+          "the system has infinitely many solutions"
+        ]
+      }
+    ]
+  },
+  {
+    "questionId": "1-6-q4",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-6",
+    "lessonName": "Solving Systems of Equations",
+    "difficulty": 4,
+    "difficultyLabel": "Challenge",
+    "ebookPage": 39,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p39",
+    "questionWeight": 1,
+    "prompt": "For which value of \\(k\\) does the system have **no solution**?\n\n\\[\n\\begin{cases}\n3x+ky=7\\\\\n6x+4y=15\n\\end{cases}\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\(k=-2\\)"
+      },
+      {
+        "letter": "B",
+        "text": "\\(k=4\\)"
+      },
+      {
+        "letter": "C",
+        "text": "\\(k=1\\)"
+      },
+      {
+        "letter": "D",
+        "text": "\\(k=2\\)"
+      }
+    ],
+    "correctChoice": "D",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: D**\n\nFor no solution, the two lines must be parallel but distinct.\n\nThe \\(x\\)-coefficients have ratio:\n\n\\[\n\\frac63=2\n\\]\n\nSo the \\(y\\)-coefficients must have the same ratio:\n\n\\[\n\\frac4k=2\n\\]\n\nThus:\n\n\\[\nk=2\n\\]\n\nBut the constants are not in the same ratio:\n\n\\[\n\\frac{15}{7}\\ne2\n\\]\n\nso the lines are distinct and parallel. **D** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": false,
+    "fields": [
+      {
+        "key": "k",
+        "label": "k",
+        "type": "number",
+        "value": "2",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      }
+    ]
+  },
+  {
+    "questionId": "1-6-q5",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-6",
+    "lessonName": "Solving Systems of Equations",
+    "difficulty": 5,
+    "difficultyLabel": "Hardest",
+    "ebookPage": 39,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p39",
+    "questionWeight": 1,
+    "prompt": "A chemist must make 42 liters of a 50% acid solution by mixing a 30% solution and a 65% solution. How many liters of each should be used?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "18 L of 30% and 24 L of 65%"
+      },
+      {
+        "letter": "B",
+        "text": "24 L of 30% and 18 L of 65%"
+      },
+      {
+        "letter": "C",
+        "text": "21 L of each"
+      },
+      {
+        "letter": "D",
+        "text": "12 L of 30% and 30 L of 65%"
+      }
+    ],
+    "correctChoice": "A",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: A**\n\nLet \\(x\\) be liters of 30% solution and \\(y\\) liters of 65% solution.\n\nTotal volume:\n\n\\[\nx+y=42\n\\]\n\nPure acid:\n\n\\[\n0.30x+0.65y=0.50(42)=21\n\\]\n\nUse \\(x=42-y\\):\n\n\\[\n0.30(42-y)+0.65y=21\n\\]\n\n\\[\n12.6+0.35y=21\n\\]\n\n\\[\n0.35y=8.4\n\\]\n\n\\[\ny=24\n\\]\n\nThen:\n\n\\[\nx=18\n\\]\n\nTherefore **A** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": false,
+    "fields": [
+      {
+        "key": "thirty",
+        "label": "Liters of 30% solution",
+        "type": "number",
+        "value": "18",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      },
+      {
+        "key": "sixtyFive",
+        "label": "Liters of 65% solution",
+        "type": "number",
+        "value": "24",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      }
+    ]
+  },
+  {
+    "questionId": "1-7-q1",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-7",
+    "lessonName": "Systems of Inequalities",
+    "difficulty": 1,
+    "difficultyLabel": "Standard",
+    "ebookPage": 49,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p49",
+    "questionWeight": 1,
+    "prompt": "Which graph represents the solution of\n\n\\[\n\\begin{cases}\ny\\ge x\\\\\ny\\le5\n\\end{cases}\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "/practice/graphs/1-7-q1-A.svg",
+        "description": "Solid boundary -1x + 1y = 0; shaded where -1x + 1y <= 0. Solid boundary 0x + 1y = 5; shaded where 0x + 1y <= 5"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "/practice/graphs/1-7-q1-B.svg",
+        "description": "Solid boundary -1x + 1y = 0; shaded where -1x + 1y >= 0. Solid boundary 0x + 1y = 5; shaded where 0x + 1y >= 5"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "/practice/graphs/1-7-q1-C.svg",
+        "description": "Solid boundary -1x + 1y = 0; shaded where -1x + 1y >= 0. Solid boundary 0x + 1y = 5; shaded where 0x + 1y <= 5"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "/practice/graphs/1-7-q1-D.svg",
+        "description": "Solid boundary -1x + 1y = 0; shaded where -1x + 1y <= 0. Solid boundary 0x + 1y = 5; shaded where 0x + 1y >= 5"
+      }
+    ],
+    "correctChoice": "C",
+    "isGraph": true,
+    "sourceGraph": "images/1-7_Q1_choices.png",
+    "explanation": "**Correct answer: C**\n\nThe first inequality requires points on or above \\(y=x\\). The second requires points on or below \\(y=5\\). Both boundaries are solid.\n\nThe overlap shown in **C** is the correct solution region.",
+    "supportedMethods": [
+      "mc"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": []
+  },
+  {
+    "questionId": "1-7-q2",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-7",
+    "lessonName": "Systems of Inequalities",
+    "difficulty": 2,
+    "difficultyLabel": "Hard",
+    "ebookPage": 49,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p49",
+    "questionWeight": 1,
+    "prompt": "Which graph represents the feasible region\n\n\\[\n\\begin{cases}\nx\\ge0\\\\\ny\\ge0\\\\\nx+y\\le8\n\\end{cases}\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "/practice/graphs/1-7-q2-A.svg",
+        "description": "Solid boundary 1x + 0y = 0; shaded where 1x + 0y >= 0. Solid boundary 0x + 1y = 0; shaded where 0x + 1y >= 0. Solid boundary 1x + 1y = 8; shaded where 1x + 1y <= 8"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "/practice/graphs/1-7-q2-B.svg",
+        "description": "Solid boundary 1x + 0y = 0; shaded where 1x + 0y >= 0. Solid boundary 0x + 1y = 0; shaded where 0x + 1y >= 0. Solid boundary 1x + 1y = 8; shaded where 1x + 1y >= 8"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "/practice/graphs/1-7-q2-C.svg",
+        "description": "Solid boundary 1x + 0y = 0; shaded where 1x + 0y <= 0. Solid boundary 0x + 1y = 0; shaded where 0x + 1y >= 0. Solid boundary 1x + 1y = 8; shaded where 1x + 1y <= 8"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "/practice/graphs/1-7-q2-D.svg",
+        "description": "Solid boundary 1x + 0y = 0; shaded where 1x + 0y >= 0. Solid boundary 0x + 1y = 0; shaded where 0x + 1y <= 0. Solid boundary 1x + 1y = 8; shaded where 1x + 1y <= 8"
+      }
+    ],
+    "correctChoice": "A",
+    "isGraph": true,
+    "sourceGraph": "images/1-7_Q2_choices.png",
+    "explanation": "**Correct answer: A**\n\nThe first two inequalities restrict the solution to the first quadrant. The third places it on or below:\n\n\\[\nx+y=8\n\\]\n\nThe resulting triangular feasible region is graph **A**.",
+    "supportedMethods": [
+      "mc"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": []
+  },
+  {
+    "questionId": "1-7-q3",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-7",
+    "lessonName": "Systems of Inequalities",
+    "difficulty": 3,
+    "difficultyLabel": "Hard–Challenge",
+    "ebookPage": 49,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p49",
+    "questionWeight": 1,
+    "prompt": "Which graph represents\n\n\\[\n\\begin{cases}\nx+y\\le6\\\\\n2x-y\\ge0\\\\\ny\\ge1\n\\end{cases}\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "/practice/graphs/1-7-q3-A.svg",
+        "description": "Solid boundary 1x + 1y = 6; shaded where 1x + 1y <= 6. Solid boundary -2x + 1y = 0; shaded where -2x + 1y >= 0. Solid boundary 0x + 1y = 1; shaded where 0x + 1y >= 1"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "/practice/graphs/1-7-q3-B.svg",
+        "description": "Solid boundary 1x + 1y = 6; shaded where 1x + 1y >= 6. Solid boundary -2x + 1y = 0; shaded where -2x + 1y <= 0. Solid boundary 0x + 1y = 1; shaded where 0x + 1y >= 1"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "/practice/graphs/1-7-q3-C.svg",
+        "description": "Solid boundary 1x + 1y = 6; shaded where 1x + 1y <= 6. Solid boundary -2x + 1y = 0; shaded where -2x + 1y <= 0. Solid boundary 0x + 1y = 1; shaded where 0x + 1y <= 1"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "/practice/graphs/1-7-q3-D.svg",
+        "description": "Solid boundary 1x + 1y = 6; shaded where 1x + 1y <= 6. Solid boundary -2x + 1y = 0; shaded where -2x + 1y <= 0. Solid boundary 0x + 1y = 1; shaded where 0x + 1y >= 1"
+      }
+    ],
+    "correctChoice": "D",
+    "isGraph": true,
+    "sourceGraph": "images/1-7_Q3_choices.png",
+    "explanation": "**Correct answer: D**\n\nRewrite the middle inequality:\n\n\\[\n2x-y\\ge0\n\\]\n\n\\[\ny\\le2x\n\\]\n\nSo the solution must be below \\(x+y=6\\), below \\(y=2x\\), and above \\(y=1\\). All boundaries are solid.\n\nThat intersection is shown in **D**.",
+    "supportedMethods": [
+      "mc"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": false,
+    "fields": []
+  },
+  {
+    "questionId": "1-7-q4",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-7",
+    "lessonName": "Systems of Inequalities",
+    "difficulty": 4,
+    "difficultyLabel": "Challenge",
+    "ebookPage": 49,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p49",
+    "questionWeight": 1,
+    "prompt": "Which graph represents\n\n\\[\n\\begin{cases}\nx\\ge0\\\\\ny\\ge0\\\\\n2x+y\\le10\\\\\nx+2y\\le8\n\\end{cases}\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "/practice/graphs/1-7-q4-A.svg",
+        "description": "Solid boundary 1x + 0y = 0; shaded where 1x + 0y >= 0. Solid boundary 0x + 1y = 0; shaded where 0x + 1y >= 0. Solid boundary 2x + 1y = 10; shaded where 2x + 1y >= 10. Solid boundary 1x + 2y = 8; shaded where 1x + 2y <= 8"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "/practice/graphs/1-7-q4-B.svg",
+        "description": "Solid boundary 1x + 0y = 0; shaded where 1x + 0y >= 0. Solid boundary 0x + 1y = 0; shaded where 0x + 1y >= 0. Solid boundary 2x + 1y = 10; shaded where 2x + 1y <= 10. Solid boundary 1x + 2y = 8; shaded where 1x + 2y <= 8"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "/practice/graphs/1-7-q4-C.svg",
+        "description": "Solid boundary 1x + 0y = 0; shaded where 1x + 0y >= 0. Solid boundary 0x + 1y = 0; shaded where 0x + 1y >= 0. Solid boundary 2x + 1y = 10; shaded where 2x + 1y <= 10. Solid boundary 1x + 2y = 8; shaded where 1x + 2y >= 8"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "/practice/graphs/1-7-q4-D.svg",
+        "description": "Solid boundary 1x + 0y = 0; shaded where 1x + 0y >= 0. Solid boundary 0x + 1y = 0; shaded where 0x + 1y <= 0. Solid boundary 2x + 1y = 10; shaded where 2x + 1y <= 10. Solid boundary 1x + 2y = 8; shaded where 1x + 2y <= 8"
+      }
+    ],
+    "correctChoice": "B",
+    "isGraph": true,
+    "sourceGraph": "images/1-7_Q4_choices.png",
+    "explanation": "**Correct answer: B**\n\nThe first two constraints keep the region in the first quadrant. It must also lie below both:\n\n\\[\n2x+y=10\n\\]\n\nand\n\n\\[\nx+2y=8\n\\]\n\nThe common bounded region is shown in **B**.",
+    "supportedMethods": [
+      "mc"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": []
+  },
+  {
+    "questionId": "1-7-q5",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-7",
+    "lessonName": "Systems of Inequalities",
+    "difficulty": 5,
+    "difficultyLabel": "Hardest",
+    "ebookPage": 49,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p49",
+    "questionWeight": 1,
+    "prompt": "Which graph represents the five-constraint system\n\n\\[\n\\begin{cases}\nx\\ge0\\\\\ny\\ge0\\\\\nx+y\\le8\\\\\n2x+y\\ge6\\\\\nx+2y\\ge6\n\\end{cases}\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "/practice/graphs/1-7-q5-A.svg",
+        "description": "Solid boundary 1x + 0y = 0; shaded where 1x + 0y >= 0. Solid boundary 0x + 1y = 0; shaded where 0x + 1y >= 0. Solid boundary 1x + 1y = 8; shaded where 1x + 1y <= 8. Solid boundary 2x + 1y = 6; shaded where 2x + 1y <= 6. Solid boundary 1x + 2y = 6; shaded where 1x + 2y >= 6"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "/practice/graphs/1-7-q5-B.svg",
+        "description": "Solid boundary 1x + 0y = 0; shaded where 1x + 0y >= 0. Solid boundary 0x + 1y = 0; shaded where 0x + 1y >= 0. Solid boundary 1x + 1y = 8; shaded where 1x + 1y >= 8. Solid boundary 2x + 1y = 6; shaded where 2x + 1y >= 6. Solid boundary 1x + 2y = 6; shaded where 1x + 2y >= 6"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "/practice/graphs/1-7-q5-C.svg",
+        "description": "Solid boundary 1x + 0y = 0; shaded where 1x + 0y >= 0. Solid boundary 0x + 1y = 0; shaded where 0x + 1y >= 0. Solid boundary 1x + 1y = 8; shaded where 1x + 1y <= 8. Solid boundary 2x + 1y = 6; shaded where 2x + 1y >= 6. Solid boundary 1x + 2y = 6; shaded where 1x + 2y >= 6"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "/practice/graphs/1-7-q5-D.svg",
+        "description": "Solid boundary 1x + 0y = 0; shaded where 1x + 0y >= 0. Solid boundary 0x + 1y = 0; shaded where 0x + 1y >= 0. Solid boundary 1x + 1y = 8; shaded where 1x + 1y <= 8. Solid boundary 2x + 1y = 6; shaded where 2x + 1y >= 6. Solid boundary 1x + 2y = 6; shaded where 1x + 2y <= 6"
+      }
+    ],
+    "correctChoice": "C",
+    "isGraph": true,
+    "sourceGraph": "images/1-7_Q5_choices.png",
+    "explanation": "**Correct answer: C**\n\nThe first two constraints keep the solution in the first quadrant.\n\nThe inequality:\n\n\\[\nx+y\\le8\n\\]\n\nplaces the region below the upper diagonal boundary.\n\nThe inequalities:\n\n\\[\n2x+y\\ge6\n\\]\n\nand\n\n\\[\nx+2y\\ge6\n\\]\n\nplace the solution above the two lower boundaries.\n\nThe common central polygonal region is graph **C**.",
+    "supportedMethods": [
+      "mc"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": false,
+    "fields": []
+  },
+  {
+    "questionId": "1-8-q1",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-8",
+    "lessonName": "Optimization with Linear Programming",
+    "difficulty": 1,
+    "difficultyLabel": "Standard",
+    "ebookPage": 57,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p57",
+    "questionWeight": 1,
+    "prompt": "Which graph shows the feasible region for\n\n\\[\nx\\ge0,\\qquad y\\ge0,\\qquad x+y\\le6?\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "",
+        "image": "/practice/graphs/1-8-q1-A.svg",
+        "description": "Solid boundary 1x + 0y = 0; shaded where 1x + 0y >= 0. Solid boundary 0x + 1y = 0; shaded where 0x + 1y >= 0. Solid boundary 1x + 1y = 6; shaded where 1x + 1y >= 6"
+      },
+      {
+        "letter": "B",
+        "text": "",
+        "image": "/practice/graphs/1-8-q1-B.svg",
+        "description": "Solid boundary 1x + 0y = 0; shaded where 1x + 0y <= 0. Solid boundary 0x + 1y = 0; shaded where 0x + 1y >= 0. Solid boundary 1x + 1y = 6; shaded where 1x + 1y <= 6"
+      },
+      {
+        "letter": "C",
+        "text": "",
+        "image": "/practice/graphs/1-8-q1-C.svg",
+        "description": "Solid boundary 1x + 0y = 0; shaded where 1x + 0y >= 0. Solid boundary 0x + 1y = 0; shaded where 0x + 1y <= 0. Solid boundary 1x + 1y = 6; shaded where 1x + 1y <= 6"
+      },
+      {
+        "letter": "D",
+        "text": "",
+        "image": "/practice/graphs/1-8-q1-D.svg",
+        "description": "Solid boundary 1x + 0y = 0; shaded where 1x + 0y >= 0. Solid boundary 0x + 1y = 0; shaded where 0x + 1y >= 0. Solid boundary 1x + 1y = 6; shaded where 1x + 1y <= 6"
+      }
+    ],
+    "correctChoice": "D",
+    "isGraph": true,
+    "sourceGraph": "images/1-8_Q1_choices.png",
+    "explanation": "**Correct answer: D**\n\nThe first two inequalities restrict the region to the first quadrant. The final inequality requires points on or below:\n\n\\[\nx+y=6\n\\]\n\nThus the feasible region is the triangle with vertices \\((0,0)\\), \\((6,0)\\), and \\((0,6)\\), shown in **D**.",
+    "supportedMethods": [
+      "mc"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": false,
+    "fields": []
+  },
+  {
+    "questionId": "1-8-q2",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-8",
+    "lessonName": "Optimization with Linear Programming",
+    "difficulty": 2,
+    "difficultyLabel": "Hard",
+    "ebookPage": 57,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p57",
+    "questionWeight": 1,
+    "prompt": "Maximize\n\n\\[\nP=5x+4y\n\\]\n\nsubject to\n\n\\[\nx\\ge0,\\quad y\\ge0,\\quad 2x+y\\le12,\\quad x+y\\le8.\n\\]\n\nWhich maximum is correct?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\(P=30\\) at \\((6,0)\\)"
+      },
+      {
+        "letter": "B",
+        "text": "\\(P=36\\) at \\((4,4)\\)"
+      },
+      {
+        "letter": "C",
+        "text": "\\(P=32\\) at \\((0,8)\\)"
+      },
+      {
+        "letter": "D",
+        "text": "\\(P=40\\) at \\((4,5)\\)"
+      }
+    ],
+    "correctChoice": "B",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: B**\n\nThe feasible vertices are:\n\n\\[\n(0,0),\\ (6,0),\\ (4,4),\\ (0,8)\n\\]\n\nEvaluate \\(P=5x+4y\\):\n\n\\[\nP(0,0)=0\n\\]\n\n\\[\nP(6,0)=30\n\\]\n\n\\[\nP(4,4)=20+16=36\n\\]\n\n\\[\nP(0,8)=32\n\\]\n\nThe maximum is \\(36\\) at \\((4,4)\\). **B** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": [
+      {
+        "key": "x",
+        "label": "x",
+        "type": "number",
+        "value": "4",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      },
+      {
+        "key": "y",
+        "label": "y",
+        "type": "number",
+        "value": "4",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      },
+      {
+        "key": "value",
+        "label": "Maximum value of P",
+        "type": "number",
+        "value": "36",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      }
+    ]
+  },
+  {
+    "questionId": "1-8-q3",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-8",
+    "lessonName": "Optimization with Linear Programming",
+    "difficulty": 3,
+    "difficultyLabel": "Hard–Challenge",
+    "ebookPage": 57,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p57",
+    "questionWeight": 1,
+    "prompt": "Minimize\n\n\\[\nC=4x+7y\n\\]\n\nover the feasible vertices\n\n\\[\n(1,6),\\quad(3,2),\\quad(6,1).\n\\]\n\nWhich result is correct?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\(C=46\\) at \\((1,6)\\)"
+      },
+      {
+        "letter": "B",
+        "text": "\\(C=31\\) at \\((6,1)\\)"
+      },
+      {
+        "letter": "C",
+        "text": "\\(C=26\\) at \\((3,2)\\)"
+      },
+      {
+        "letter": "D",
+        "text": "\\(C=24\\) at \\((6,0)\\)"
+      }
+    ],
+    "correctChoice": "C",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: C**\n\nEvaluate each listed feasible vertex:\n\n\\[\nC(1,6)=4+42=46\n\\]\n\n\\[\nC(3,2)=12+14=26\n\\]\n\n\\[\nC(6,1)=24+7=31\n\\]\n\nThe minimum is \\(26\\) at \\((3,2)\\), so **C** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": [
+      {
+        "key": "x",
+        "label": "x",
+        "type": "number",
+        "value": "3",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      },
+      {
+        "key": "y",
+        "label": "y",
+        "type": "number",
+        "value": "2",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      },
+      {
+        "key": "value",
+        "label": "Minimum value of C",
+        "type": "number",
+        "value": "26",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      }
+    ]
+  },
+  {
+    "questionId": "1-8-q4",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-8",
+    "lessonName": "Optimization with Linear Programming",
+    "difficulty": 4,
+    "difficultyLabel": "Challenge",
+    "ebookPage": 57,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p57",
+    "questionWeight": 1,
+    "prompt": "A shop produces A and B.\n\n- A uses 2 machine hours and 1 labor hour.\n- B uses 1 machine hour and 2 labor hours.\n- At most 12 machine hours and 12 labor hours are available.\n- Profit is \\$40 per A and \\$50 per B.\n\nWhich production plan gives the maximum profit?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "6 A, 0 B; profit $240"
+      },
+      {
+        "letter": "B",
+        "text": "0 A, 6 B; profit $300"
+      },
+      {
+        "letter": "C",
+        "text": "3 A, 4 B; profit $320"
+      },
+      {
+        "letter": "D",
+        "text": "4 A, 4 B; profit $360"
+      }
+    ],
+    "correctChoice": "D",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: D**\n\nLet \\(x\\) be A and \\(y\\) be B.\n\nConstraints:\n\n\\[\n2x+y\\le12\n\\]\n\n\\[\nx+2y\\le12\n\\]\n\nThe two resource boundaries intersect at:\n\n\\[\n2x+y=12\n\\]\n\n\\[\nx+2y=12\n\\]\n\nSolving gives:\n\n\\[\nx=4,\\qquad y=4\n\\]\n\nCheck the relevant vertices:\n\n\\[\nP(6,0)=40(6)=240\n\\]\n\n\\[\nP(0,6)=50(6)=300\n\\]\n\n\\[\nP(4,4)=40(4)+50(4)=360\n\\]\n\nSo **D** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": [
+      {
+        "key": "x",
+        "label": "Units of A",
+        "type": "number",
+        "value": "4",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      },
+      {
+        "key": "y",
+        "label": "Units of B",
+        "type": "number",
+        "value": "4",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      },
+      {
+        "key": "value",
+        "label": "Maximum profit ($)",
+        "type": "number",
+        "value": "360",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      }
+    ]
+  },
+  {
+    "questionId": "1-8-q5",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-8",
+    "lessonName": "Optimization with Linear Programming",
+    "difficulty": 5,
+    "difficultyLabel": "Hardest",
+    "ebookPage": 57,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p57",
+    "questionWeight": 1,
+    "prompt": "Suppose \\(x\\) and \\(y\\) must be **nonnegative integers**. Maximize\n\n\\[\nP=7x+9y\n\\]\n\nsubject to\n\n\\[\n3x+y\\le18\n\\]\n\nand\n\n\\[\nx+2y\\le14.\n\\]\n\nWhich integer solution is optimal?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\((4,5)\\) with \\(P=73\\)"
+      },
+      {
+        "letter": "B",
+        "text": "\\(\\left(\\frac{22}{5},\\frac{24}{5}\\right)\\) with \\(P=74\\)"
+      },
+      {
+        "letter": "C",
+        "text": "\\((2,6)\\) with \\(P=68\\)"
+      },
+      {
+        "letter": "D",
+        "text": "\\((5,3)\\) with \\(P=62\\)"
+      }
+    ],
+    "correctChoice": "A",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: A**\n\nThe continuous boundary intersection is:\n\n\\[\n3x+y=18\n\\]\n\n\\[\nx+2y=14\n\\]\n\nSolving gives:\n\n\\[\nx=\\frac{22}{5}=4.4,\\qquad y=\\frac{24}{5}=4.8\n\\]\n\nbut the problem requires **integers**, so that point is not allowed.\n\nCheck nearby feasible integer points. In particular:\n\n\\[\n(4,5):\n\\quad 3(4)+5=17\\le18\n\\]\n\n\\[\n4+2(5)=14\\le14\n\\]\n\nand\n\n\\[\nP=7(4)+9(5)=28+45=73\n\\]\n\nOther strong nearby candidates give smaller values, such as:\n\n\\[\nP(2,6)=68,\\qquad P(5,3)=62\n\\]\n\nThus the integer optimum is \\((4,5)\\) with \\(P=73\\). **A** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": false,
+    "fields": [
+      {
+        "key": "x",
+        "label": "x",
+        "type": "number",
+        "value": "4",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      },
+      {
+        "key": "y",
+        "label": "y",
+        "type": "number",
+        "value": "5",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      },
+      {
+        "key": "value",
+        "label": "Maximum integer value of P",
+        "type": "number",
+        "value": "73",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      }
+    ]
+  },
+  {
+    "questionId": "1-9-q1",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-9",
+    "lessonName": "Systems in Three Variables",
+    "difficulty": 1,
+    "difficultyLabel": "Standard",
+    "ebookPage": 64,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p64",
+    "questionWeight": 1,
+    "prompt": "Solve:\n\n\\[\n\\begin{cases}\nx+y+z=9\\\\\nx-y=2\\\\\nz=3\n\\end{cases}\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\((4,2,3)\\)"
+      },
+      {
+        "letter": "B",
+        "text": "\\((2,4,3)\\)"
+      },
+      {
+        "letter": "C",
+        "text": "\\((3,2,4)\\)"
+      },
+      {
+        "letter": "D",
+        "text": "\\((5,1,3)\\)"
+      }
+    ],
+    "correctChoice": "A",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: A**\n\nSince \\(z=3\\):\n\n\\[\nx+y=6\n\\]\n\nTogether with:\n\n\\[\nx-y=2\n\\]\n\nadd the two equations:\n\n\\[\n2x=8\n\\]\n\n\\[\nx=4\n\\]\n\nThen \\(y=2\\). Therefore:\n\n\\[\n(x,y,z)=(4,2,3)\n\\]\n\nChoice **A** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": false,
+    "fields": [
+      {
+        "key": "x",
+        "label": "x",
+        "type": "number",
+        "value": "4",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      },
+      {
+        "key": "y",
+        "label": "y",
+        "type": "number",
+        "value": "2",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      },
+      {
+        "key": "z",
+        "label": "z",
+        "type": "number",
+        "value": "3",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      }
+    ]
+  },
+  {
+    "questionId": "1-9-q2",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-9",
+    "lessonName": "Systems in Three Variables",
+    "difficulty": 2,
+    "difficultyLabel": "Hard",
+    "ebookPage": 64,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p64",
+    "questionWeight": 1,
+    "prompt": "Solve:\n\n\\[\n\\begin{cases}\nx+y+z=6\\\\\n2x-y+z=3\\\\\nx+2y-z=2\n\\end{cases}\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\((2,1,3)\\)"
+      },
+      {
+        "letter": "B",
+        "text": "\\((1,2,3)\\)"
+      },
+      {
+        "letter": "C",
+        "text": "\\((1,3,2)\\)"
+      },
+      {
+        "letter": "D",
+        "text": "\\((3,2,1)\\)"
+      }
+    ],
+    "correctChoice": "B",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: B**\n\nSubtract the first equation from the second:\n\n\\[\nx-2y=-3\n\\]\n\nAdd the first and third:\n\n\\[\n2x+3y=8\n\\]\n\nFrom the first reduced equation:\n\n\\[\nx=2y-3\n\\]\n\nSubstitute:\n\n\\[\n2(2y-3)+3y=8\n\\]\n\n\\[\n7y=14\n\\]\n\n\\[\ny=2,\\quad x=1\n\\]\n\nThen from \\(x+y+z=6\\):\n\n\\[\nz=3\n\\]\n\nSo **B** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": [
+      {
+        "key": "x",
+        "label": "x",
+        "type": "number",
+        "value": "1",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      },
+      {
+        "key": "y",
+        "label": "y",
+        "type": "number",
+        "value": "2",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      },
+      {
+        "key": "z",
+        "label": "z",
+        "type": "number",
+        "value": "3",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      }
+    ]
+  },
+  {
+    "questionId": "1-9-q3",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-9",
+    "lessonName": "Systems in Three Variables",
+    "difficulty": 3,
+    "difficultyLabel": "Hard–Challenge",
+    "ebookPage": 64,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p64",
+    "questionWeight": 1,
+    "prompt": "Solve:\n\n\\[\n\\begin{cases}\n2x+y-z=4\\\\\nx-2y+3z=9\\\\\n3x+y+2z=13\n\\end{cases}\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\((2,0,3)\\)"
+      },
+      {
+        "letter": "B",
+        "text": "\\((3,2,0)\\)"
+      },
+      {
+        "letter": "C",
+        "text": "\\((3,0,2)\\)"
+      },
+      {
+        "letter": "D",
+        "text": "\\((0,3,2)\\)"
+      }
+    ],
+    "correctChoice": "C",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: C**\n\nSubtract the first equation from the third:\n\n\\[\nx+3z=9\n\\]\n\nUse the first equation to eliminate \\(x\\) with the second, eventually obtaining:\n\n\\[\n-5y+7z=14\n\\]\n\nFrom \\(x+3z=9\\):\n\n\\[\nx=9-3z\n\\]\n\nSubstitute into the first equation:\n\n\\[\n2(9-3z)+y-z=4\n\\]\n\n\\[\ny=7z-14\n\\]\n\nThen:\n\n\\[\n-5(7z-14)+7z=14\n\\]\n\n\\[\n-28z=-56\n\\]\n\n\\[\nz=2\n\\]\n\nSo:\n\n\\[\ny=0,\\qquad x=3\n\\]\n\nThus **C** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": [
+      {
+        "key": "x",
+        "label": "x",
+        "type": "number",
+        "value": "3",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      },
+      {
+        "key": "y",
+        "label": "y",
+        "type": "number",
+        "value": "0",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      },
+      {
+        "key": "z",
+        "label": "z",
+        "type": "number",
+        "value": "2",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      }
+    ]
+  },
+  {
+    "questionId": "1-9-q4",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-9",
+    "lessonName": "Systems in Three Variables",
+    "difficulty": 4,
+    "difficultyLabel": "Challenge",
+    "ebookPage": 64,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p64",
+    "questionWeight": 1,
+    "prompt": "Solve:\n\n\\[\n\\begin{cases}\nx+2y+z=7\\\\\n2x-y+3z=12\\\\\n3x+y-z=4\n\\end{cases}\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\((1,2,3)\\)"
+      },
+      {
+        "letter": "B",
+        "text": "\\((2,3,1)\\)"
+      },
+      {
+        "letter": "C",
+        "text": "\\((3,1,2)\\)"
+      },
+      {
+        "letter": "D",
+        "text": "\\((2,1,3)\\)"
+      }
+    ],
+    "correctChoice": "D",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: D**\n\nEliminate \\(x\\).\n\nSecond minus twice the first:\n\n\\[\n-5y+z=-2\n\\]\n\nThird minus three times the first:\n\n\\[\n-5y-4z=-17\n\\]\n\nSubtract:\n\n\\[\n-5z=-15\n\\]\n\n\\[\nz=3\n\\]\n\nThen:\n\n\\[\n-5y+3=-2\n\\]\n\n\\[\ny=1\n\\]\n\nUse the first equation:\n\n\\[\nx+2+3=7\n\\]\n\n\\[\nx=2\n\\]\n\nTherefore **D** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": true,
+    "fields": [
+      {
+        "key": "x",
+        "label": "x",
+        "type": "number",
+        "value": "2",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      },
+      {
+        "key": "y",
+        "label": "y",
+        "type": "number",
+        "value": "1",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      },
+      {
+        "key": "z",
+        "label": "z",
+        "type": "number",
+        "value": "3",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      }
+    ]
+  },
+  {
+    "questionId": "1-9-q5",
+    "courseId": "chapter-1",
+    "courseName": "Chapter 1: Linear Equations",
+    "lessonId": "1-9",
+    "lessonName": "Systems in Three Variables",
+    "difficulty": 5,
+    "difficultyLabel": "Hardest",
+    "ebookPage": 64,
+    "ebookUrl": "https://fieldnotes-mathematics-ebook.netlify.app/ebook/chapter1/p64",
+    "questionWeight": 1,
+    "prompt": "For which value of \\(k\\) does the system have **no solution**?\n\n\\[\n\\begin{cases}\nx+y+z=6\\\\\n2x-y+3z=14\\\\\n8x+ky+11z=55\n\\end{cases}\n\\]",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "\\(k=-1\\)"
+      },
+      {
+        "letter": "B",
+        "text": "\\(k=1\\)"
+      },
+      {
+        "letter": "C",
+        "text": "\\(k=-3\\)"
+      },
+      {
+        "letter": "D",
+        "text": "\\(k=0\\)"
+      }
+    ],
+    "correctChoice": "A",
+    "isGraph": false,
+    "sourceGraph": null,
+    "explanation": "**Correct answer: A**\n\nForm a linear combination of the first two equations:\n\n\\[\n2(x+y+z=6)\n\\]\n\ngives:\n\n\\[\n2x+2y+2z=12\n\\]\n\nand\n\n\\[\n3(2x-y+3z=14)\n\\]\n\ngives:\n\n\\[\n6x-3y+9z=42\n\\]\n\nAdd them:\n\n\\[\n8x-y+11z=54\n\\]\n\nFor the third equation to have the same left-hand side, we need:\n\n\\[\nk=-1\n\\]\n\nBut then the third equation says:\n\n\\[\n8x-y+11z=55\n\\]\n\nwhile the first two force:\n\n\\[\n8x-y+11z=54\n\\]\n\nThis contradiction means **no solution**. Therefore **A** is correct.",
+    "supportedMethods": [
+      "mc",
+      "written"
+    ],
+    "contentVersion": 2,
+    "active": true,
+    "preservesLegacyContent": false,
+    "fields": [
+      {
+        "key": "k",
+        "label": "k giving no solution",
+        "type": "number",
+        "value": "-1",
+        "hint": "Numbers, fractions, and equivalent arithmetic expressions are accepted."
+      }
+    ]
+  }
+]
